@@ -1,6 +1,6 @@
 # Metro Transit App
 
-![Metro Transit App](https://example.com/metro-transit-app-banner.png)
+![Metro Transit App](https://github.com/metro-transit/.github/blob/main/profile/ic_launcher_foreground.png)
 
 The Metro Transit App is a convenient and user-friendly application that allows users to navigate public transportation, providing real-time information on bus routes, schedules, and fare options. This README provides an overview of the app's features, installation instructions, and how to contribute to its development.
 
