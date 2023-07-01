@@ -1,12 +1,24 @@
-## Hi there 👋
+# Metro Transit App
 
-<!--
+![Metro Transit App](https://example.com/metro-transit-app-banner.png)
 
-**Here are some ideas to get you started:**
+The Metro Transit App is a convenient and user-friendly application that allows users to navigate public transportation, providing real-time information on bus routes, schedules, and fare options. This README provides an overview of the app's features, installation instructions, and how to contribute to its development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Features
+
+- **Real-time Bus Tracking**: Users can track buses in real-time on an interactive map, ensuring they have up-to-date information on bus locations and estimated arrival times.
+
+- **Bus Routes and Schedules**: Browse through a comprehensive list of bus routes and schedules, allowing users to plan their trips efficiently.
+
+- **Fare Information**: Access information on fare options, ticket prices, and any discounts or promotions available.
+
+- **Trip Planning**: Enter start and end locations to get detailed step-by-step directions for the most convenient bus routes to reach their destination.
+
+- **Ad-supported Free Rides**: Users can enjoy courtesy rides by engaging with ads displayed within the app, making public transportation accessible to a wider audience.
+
+## Installation
+
+To install and run the Metro Transit App locally, follow these steps:
+
+1. Clone the repository:
+
